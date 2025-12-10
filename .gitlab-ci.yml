@@ -9,4 +9,5 @@ build:
     - amd64
   script:
     - |
+      apt install libgtk-3-dev
       cargo build
