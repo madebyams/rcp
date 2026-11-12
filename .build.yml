@@ -10,4 +10,4 @@ sources:
 tasks:
   - build: |
       cd rcp
-      cargo build --locked
+      cargo build
